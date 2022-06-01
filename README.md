@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&amp;logo=python" alt="Python">
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
-  <img src="https://img.shields.io/badge/-Scheme-000000?style=flat&amp;logo=Racket" alt="Scheme"> 
+  <img src="https://img.shields.io/badge/-Racket-000000?style=flat&amp;logo=Racket" alt="Racket"> 
     </br>
   </h2>
   </div>
